@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["extract_pi_analysis_results","run"],"mod":["object"],"static":["CWE_MODULE"],"struct":["Config","PointerInference","State"],"type":["Data","ValueDomain"]};

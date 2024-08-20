@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["ARCHITECTURES","COMPILERS","LKM_ARCHITECTURES","LKM_COMPILERS","LKM_CWE","WINDOWS_ARCHITECTURES","WINDOWS_COMPILERS"],"fn":["all_test_cases","linux_test_cases","lkm_test_cases","mark_architecture_skipped","mark_compiler_skipped","mark_skipped","mark_skipped_user","new_test_cases","print_errors","windows_test_cases"],"struct":["CweTestCase"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["create_bottom_up_worklist","create_computation","create_computation_with_bottom_up_worklist_order","create_computation_with_top_down_worklist_order","create_top_down_worklist"],"struct":["GeneralizedContext"],"trait":["Context"]};

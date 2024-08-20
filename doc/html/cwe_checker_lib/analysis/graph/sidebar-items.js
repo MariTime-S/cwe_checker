@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Edge","Node"],"fn":["get_entry_nodes_of_subs","get_program_cfg","get_program_cfg_with_logs"],"struct":["NodeIndex"],"trait":["HasCfg"],"type":["Graph"]};

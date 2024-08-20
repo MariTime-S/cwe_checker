@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["copy_config_json","copy_dir_all","copy_ghidra_plugin","create_ghidra_json","find_ghidra","get_search_locations","get_user_choice","install_cwe_checker","is_good_ghidra_location","is_hidden","main","search_for_ghidrarun","select_ghidra_version","uninstall"],"struct":["CmdlineArgs","GhidraConfig"]};

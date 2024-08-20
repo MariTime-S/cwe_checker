@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["get_project_from_ghidra","parse_pcode_project_to_ir_project"]};

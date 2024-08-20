@@ -1,3 +1,0 @@
-(function() {var implementors = {
-"cwe_checker_lib":[["impl&lt;'a&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/1.76.0/core/convert/trait.AsRef.html\" title=\"trait core::convert::AsRef\">AsRef</a>&lt;<a class=\"struct\" href=\"cwe_checker_lib/intermediate_representation/struct.Project.html\" title=\"struct cwe_checker_lib::intermediate_representation::Project\">Project</a>&gt; for <a class=\"struct\" href=\"cwe_checker_lib/checkers/cwe_337/struct.Context.html\" title=\"struct cwe_checker_lib::checkers::cwe_337::Context\">Context</a>&lt;'a&gt;"]]
-};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

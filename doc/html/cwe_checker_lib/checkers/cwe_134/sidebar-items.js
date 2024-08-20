@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["StringLocation"],"fn":["check_cwe"],"static":["CWE_MODULE"],"struct":["Config"]};

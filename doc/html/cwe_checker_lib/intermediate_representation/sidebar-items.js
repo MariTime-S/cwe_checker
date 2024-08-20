@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Arg","BinOpType","CastOpType","Datatype","Def","Expression","Jmp","UnOpType"],"mod":["propagate_control_flow"],"struct":["Blk","ByteSize","CallingConvention","DatatypeProperties","ExternSymbol","Program","Project","RuntimeMemoryImage","Sub","Term","Tid","Variable"],"trait":["BitvectorExtended"],"type":["Bitvector"]};

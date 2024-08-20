@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["CliDebugMode"],"fn":["check_file_existence","filter_modules_for_partial_run","main","run_with_ghidra"],"struct":["CmdlineArgs"]};

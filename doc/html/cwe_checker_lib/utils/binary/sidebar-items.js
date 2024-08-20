@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["parse_hex_string_to_u64"],"struct":["BareMetalConfig","MemorySegment"]};

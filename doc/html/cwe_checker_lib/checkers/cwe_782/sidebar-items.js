@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["check_cwe","generate_cwe_warning","handle_sub"],"static":["CWE_MODULE"]};

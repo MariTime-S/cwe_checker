@@ -1,1 +1,0 @@
-window.ALL_CRATES = ["acceptance_tests_ghidra","cwe_checker","cwe_checker_install","cwe_checker_lib"];

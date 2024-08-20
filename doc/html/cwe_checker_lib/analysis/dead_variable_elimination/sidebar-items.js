@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["compute_alive_vars","remove_dead_var_assignments"]};

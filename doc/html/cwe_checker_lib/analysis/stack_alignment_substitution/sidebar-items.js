@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["substitute_and_on_stackpointer"]};
