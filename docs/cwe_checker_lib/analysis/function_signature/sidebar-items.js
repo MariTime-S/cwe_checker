@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["compute_function_signatures"],"mod":["stubs"],"struct":["AccessPattern","FunctionSignature"]};
