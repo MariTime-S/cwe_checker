@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["check_cwe","check_if_string_domain_indicates_vulnerability","check_system_call_parameter","generate_cwe_warning"],"static":["CWE_MODULE"],"struct":["Config"]};
